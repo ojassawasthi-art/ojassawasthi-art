@@ -1,19 +1,4 @@
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:C8A97E&height=210&section=header&text=Ojas%20Awasthi&fontSize=50&fontColor=F5F5F2&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%C2%B7%20Digital%20Strategist%20%C2%B7%20Author&descSize=18&descAlignY=60" alt="Ojas Awasthi" width="100%" />
-
-<a href="https://ojasawasthii.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=C8A97E&center=true&vCenter=true&width=620&lines=Building+fast%2C+beautiful+websites;Digital+marketing+%2B+SEO;Published+author+%7C+Lucknow%2C+India" alt="Typing intro" />
-</a>
-
-<br/>
-
-<a href="https://ojasawasthii.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ojasawasthii.vercel.app-0A0A0A?style=for-the-badge&logo=vercel&logoColor=C8A97E" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/ojassawasthi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=C8A97E" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/_ojas0001_"><img src="https://img.shields.io/badge/Instagram-Follow-0A0A0A?style=for-the-badge&logo=instagram&logoColor=C8A97E" alt="Instagram" /></a>
-<a href="https://t.me/ojasawasthiiii"><img src="https://img.shields.io/badge/Telegram-Message-0A0A0A?style=for-the-badge&logo=telegram&logoColor=C8A97E" alt="Telegram" /></a>
-<a href="mailto:ojassawasthi@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-0A0A0A?style=for-the-badge&logo=gmail&logoColor=C8A97E" alt="Email" /></a>
 
 </div>
 
