@@ -28,7 +28,9 @@
   <text x="247" y="366" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#C8A97E">SAMPLE PREVIEW · NUMBERS ARE MADE UP</text>
 </svg>
 
-
+<div align="center">
+  <img src="sample-card.svg" alt="Sample stats card" width="495" />
+</div>
 
 
 
