@@ -1,4 +1,40 @@
 
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="380" viewBox="0 0 495 380" role="img" aria-label="Sample GitHub stats card with made-up numbers">
+  <rect width="495" height="215" rx="12" fill="#0A0A0A"/>
+  <text x="24" y="38" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#C8A97E">Ojas Awasthi's GitHub stats</text>
+  <circle cx="450" cy="34" r="20" fill="none" stroke="#C8A97E" stroke-width="3"/>
+  <text x="450" y="40" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#F5F5F2">A+</text>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#F5F5F2">
+    <circle cx="30" cy="74" r="5" fill="#C8A97E"/><text x="46" y="79">Total stars earned</text><text x="471" y="79" text-anchor="end" font-weight="600">128</text>
+    <circle cx="30" cy="102" r="5" fill="#C8A97E"/><text x="46" y="107">Total commits (2026)</text><text x="471" y="107" text-anchor="end" font-weight="600">642</text>
+    <circle cx="30" cy="130" r="5" fill="#C8A97E"/><text x="46" y="135">Total PRs</text><text x="471" y="135" text-anchor="end" font-weight="600">37</text>
+    <circle cx="30" cy="158" r="5" fill="#C8A97E"/><text x="46" y="163">Total issues</text><text x="471" y="163" text-anchor="end" font-weight="600">19</text>
+    <circle cx="30" cy="186" r="5" fill="#C8A97E"/><text x="46" y="191">Contributed to (last year)</text><text x="471" y="191" text-anchor="end" font-weight="600">12</text>
+  </g>
+  <g transform="translate(0,227)">
+    <rect width="495" height="118" rx="12" fill="#0A0A0A"/>
+    <text x="24" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#C8A97E">Top languages</text>
+    <rect x="24" y="48" width="206" height="8" fill="#C8A97E"/>
+    <rect x="230" y="48" width="125" height="8" fill="#8A8A85"/>
+    <rect x="355" y="48" width="72" height="8" fill="#5F5E5A"/>
+    <rect x="427" y="48" width="44" height="8" fill="#3A3A38"/>
+    <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#F5F5F2">
+      <circle cx="30" cy="80" r="5" fill="#C8A97E"/><text x="42" y="84">TypeScript 46%</text>
+      <circle cx="266" cy="80" r="5" fill="#8A8A85"/><text x="278" y="84">JavaScript 28%</text>
+      <circle cx="30" cy="104" r="5" fill="#5F5E5A"/><text x="42" y="108">CSS 16%</text>
+      <circle cx="266" cy="104" r="5" fill="#3A3A38"/><text x="278" y="108">HTML 10%</text>
+    </g>
+  </g>
+  <text x="247" y="366" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#C8A97E">SAMPLE PREVIEW · NUMBERS ARE MADE UP</text>
+</svg>
+
+
+
+
+
+
+
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:C8A97E&height=210&section=header&text=Ojas%20Awasthi&fontSize=50&fontColor=F5F5F2&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%C2%B7%20Digital%20Strategist%20%C2%B7%20Author&descSize=18&descAlignY=60" alt="Ojas Awasthi" width="100%" />
