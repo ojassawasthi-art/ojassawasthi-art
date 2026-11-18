@@ -1,3 +1,100 @@
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:C8A97E&height=210&section=header&text=Ojas%20Awasthi&fontSize=50&fontColor=F5F5F2&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%C2%B7%20Digital%20Strategist%20%C2%B7%20Author&descSize=18&descAlignY=60" alt="Ojas Awasthi" width="100%" />
+
+<a href="https://github.com/ojassawasthi-art">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=C8A97E&center=true&vCenter=true&width=620&lines=Building+fast%2C+beautiful+websites;Digital+marketing+%2B+SEO;Published+author+%7C+Lucknow%2C+India" alt="Typing intro" />
+</a>
+
+<br/>
+
+<a href="https://ojasawasthii.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ojasawasthii.vercel.app-0A0A0A?style=for-the-badge&logo=vercel&logoColor=C8A97E" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/ojassawasthi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=C8A97E" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/_ojas0001_"><img src="https://img.shields.io/badge/Instagram-Follow-0A0A0A?style=for-the-badge&logo=instagram&logoColor=C8A97E" alt="Instagram" /></a>
+<a href="https://t.me/ojasawasthiiii"><img src="https://img.shields.io/badge/Telegram-Message-0A0A0A?style=for-the-badge&logo=telegram&logoColor=C8A97E" alt="Telegram" /></a>
+<a href="mailto:ojassawasthi@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-0A0A0A?style=for-the-badge&logo=gmail&logoColor=C8A97E" alt="Email" /></a>
+
+</div>
+
+---
+
+## ✦ About
+
+Hi, I'm **Ojas Awasthi**, a web developer, digital marketer and published author from **Lucknow, India**.
+I started by building a brand (VAXN Fashion, 2020 to 2024) and learned SEO, hosting and promotions on the way. Today I build websites, study **B.Com at the University of Lucknow**, and prepare for my **Company Secretary (CS)** exams.
+
+- 🌐 Building: personal brand sites, portfolios and small-business websites
+- 📈 Learning: SEO, inbound marketing, data analysis, corporate governance
+- ✍️ Writing: books on psychology and human behavior
+- 🤝 Open to: web projects and conversations in law, finance, digital strategy and marketing
+
+---
+
+## ✦ Tech I work with
+
+<div align="center">
+
+![HTML](https://img.shields.io/badge/HTML5-0A0A0A?style=flat-square&logo=html5&logoColor=C8A97E)
+![CSS](https://img.shields.io/badge/CSS3-0A0A0A?style=flat-square&logo=css3&logoColor=C8A97E)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=C8A97E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=C8A97E)
+![React](https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=C8A97E)
+![Vite](https://img.shields.io/badge/Vite-0A0A0A?style=flat-square&logo=vite&logoColor=C8A97E)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=flat-square&logo=tailwindcss&logoColor=C8A97E)
+![Supabase](https://img.shields.io/badge/Supabase-0A0A0A?style=flat-square&logo=supabase&logoColor=C8A97E)
+![Vercel](https://img.shields.io/badge/Vercel-0A0A0A?style=flat-square&logo=vercel&logoColor=C8A97E)
+![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=C8A97E)
+
+</div>
+
+---
+
+## ✦ Selected work
+
+| Project | What it is |
+|---|---|
+| [**Ojas Awasthi, portfolio**](https://ojasawasthii.vercel.app) | My personal brand website with an admin panel, Supabase backend and SEO setup |
+| [**Nutstridinida**](https://nutstridinida.vercel.app) | A website designed and developed by me |
+| **The Vaxn Store** | My fashion e-commerce brand (2020 to 2024), closed by choice |
+
+---
+
+## ✦ Books
+
+📘 **Mastering the Art of Manipulation: Psychology behind Manipulation** (Amazon Kindle, 2026) → [Get it here](https://a.co/d/0c7YPkxV)
+📗 **The Echoes of Love** (Amazon and Google Play Books)
+
+---
+
+## ✦ Certifications
+
+- 🏅 **HP LIFE**: Data Science and Analytics (2026)
+- 🏅 **HubSpot Academy**: Digital Marketing (2026)
+- 🏅 **NISM** Series XXI-A: Securities Market Foundation (2026)
+
+---
+
+## ✦ GitHub stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ojassawasthi-art&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=C8A97E&icon_color=C8A97E&text_color=F5F5F2" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojassawasthi-art&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=C8A97E&text_color=F5F5F2" alt="Top languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+*"This isn't the end of me building things. Just the end of this one."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8A97E,100:0A0A0A&height=110&section=footer" width="100%" alt="" />
+
+</div>
+
+
 # 💫 About Me:
 🔭 I’m currently working on web development, digital projects, and entrepreneurial ventures.<br><br>👯 I’m looking to collaborate on web development, e-commerce, and innovative business projects.<br><br>🤝 I’m looking for help with advanced development, business growth, and digital innovation.<br><br>🌱 I’m currently learning web technologies, finance, business strategy, and emerging technologies.<br><br>💬 Ask me about web development, digital marketing, entrepreneurship, investing, and writing.<br><br>⚡ Fun fact: I'm a published author who also builds websites and explores entrepreneurship.
 
